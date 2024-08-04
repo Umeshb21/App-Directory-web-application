@@ -26,12 +26,19 @@ Handles search functionality to filter apps based on user input.
 Dynamically updates the app list and app details sections based on user interactions.
 
 How to Use:
+
 Search for Apps: Use the search bar in the header to find specific apps by name.
+
 Browse Categories: Click on any category to view the apps within that category.
+
 View App Details: Click on an app to see more detailed information about it, including its website link.
 
 Technologies Used:
+
 HTML5: For structuring the web application.
+
 CSS3: For styling the application and ensuring responsiveness.
+
 JavaScript: For dynamic content updates and interactive features.
+
 jQuery: For simplifying DOM manipulation and event handling.
