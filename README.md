@@ -19,8 +19,8 @@ Styling (styles.css):
 Provides a clean and modern look to the app with responsive design.
 Uses flexbox and grid layouts to organize content.
 Includes hover effects and transitions for interactive elements.
-JavaScript Functionality (script.js):
 
+JavaScript Functionality (script.js):
 Manages data for app categories and apps.
 Handles search functionality to filter apps based on user input.
 Dynamically updates the app list and app details sections based on user interactions.
